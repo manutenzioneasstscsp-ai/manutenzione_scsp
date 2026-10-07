@@ -3,12 +3,10 @@
     "status": "funzionante"
   },
   "2": {
-    "status": "guasto",
-    "note": ""
+    "status": "fermo"
   },
   "3": {
-    "status": "guasto",
-    "note": ""
+    "status": "fermo"
   },
   "4": {
     "status": "funzionante"

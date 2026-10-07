@@ -3,10 +3,14 @@
     "status": "funzionante"
   },
   "2": {
-    "status": "fermo"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "adasd"
   },
   "3": {
-    "status": "fermo"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "sdfdsf"
   },
   "4": {
     "status": "funzionante"

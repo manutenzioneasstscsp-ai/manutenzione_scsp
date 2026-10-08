@@ -18,7 +18,8 @@
     "status": "funzionante"
   },
   "7": {
-    "status": "funzionante"
+    "status": "guasto",
+    "note": "In Bypass in attesa di sostituzione "
   },
   "8": {
     "status": "funzionante"
@@ -122,7 +123,17 @@
   "44": {
     "status": "funzionante"
   },
-  "410043267F3038470057": {
+  "45": {
     "status": "funzionante"
+  },
+  "46": {
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Senza Batteria "
+  },
+  "47": {
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Senza Batterie"
   }
 }

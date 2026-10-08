@@ -135,5 +135,8 @@
     "status": "fermo",
     "ticket": "",
     "motivation": "Senza Batterie"
+  },
+  "48": {
+    "status": "funzionante"
   }
 }

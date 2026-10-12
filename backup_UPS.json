@@ -1,6 +1,8 @@
 {
   "1": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Yyy"
   },
   "2": {
     "status": "funzionante"

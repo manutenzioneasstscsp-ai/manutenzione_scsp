@@ -70,9 +70,7 @@
     "status": "funzionante"
   },
   "26": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "GUASTO IN CARICO A VEOLIA"
+    "status": "funzionante"
   },
   "27": {
     "status": "funzionante"

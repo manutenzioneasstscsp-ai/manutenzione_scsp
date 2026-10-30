@@ -137,5 +137,9 @@
   },
   "48": {
     "status": "funzionante"
+  },
+  "100": {
+    "status": "guasto",
+    "note": "DISMESSO"
   }
 }
